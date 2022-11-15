@@ -1,0 +1,3 @@
+The database connection is written in implementaion/pdo.php
+It is currently set to host=localhost and dbname=23111cwk2, with id and pw being 'root' and ''.
+If needed, please feel free to alter pdo.php as needed.
